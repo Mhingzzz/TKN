@@ -7,7 +7,6 @@ int main() {
     {
         cout << "I Love Ayame \n";
         i++;
-    }
-    
+    }  
     return 0;
 }
